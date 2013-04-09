@@ -1,6 +1,6 @@
 <?php
 /**
- * Clase AddThis
+ * Class AddThis
  * Creates a widget for social sharing buttons of AddThis
  * http://www.addthis.com/
  *
@@ -14,7 +14,7 @@
  */
 
 /**
- * Clase AddThis
+ * Class AddThis
  * Creates a widget for social sharing buttons of AddThis
  * https://www.addthis.com/
  *

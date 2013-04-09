@@ -8,7 +8,9 @@ http://www.addthis.com/
 
 Configuration
 -------------
-No previous configuration required.
+You must first create an account on AddThis
+http://www.addthis.com/
+Once you have created the account, you must obtain the tracking's Id from the configuration menu for your website. They consist normally of a set of numbers and letters (like YY-XXXXXXXXXX).
 
 Usage
 -----
